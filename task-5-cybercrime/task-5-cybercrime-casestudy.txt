@@ -1,0 +1,7 @@
+Fraud in UPI - Case Study:
+
+Fraud in UPI is one of the common cybercrimes that involves tricking the victim into disclosing personal details or making fraudulent transactions. This fraud typically starts when the victim receives a call, message, or link that claims to be from a bank or a payment service provider.
+
+The scenario in UPI fraud typically starts when the fraudster claims to assist the victim in resolving a problem that has occurred while using the UPI service. This problem could be due to a failed transaction or a cashback offer. The fraudster sends a payment request to the victim. The victim, being unaware of the fraud, accepts the payment request. This leads to a loss for the victim as the amount is transferred from their account.
+
+This cybercrime is highly contagious due to the lack of knowledge and negligence of the users. It is therefore important to learn more about how this fraud occurs in order to avoid becoming a victim.
